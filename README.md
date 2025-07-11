@@ -24,8 +24,6 @@
 ![](https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png)
 
 
-![](https://img.shields.io/badge/Words%20in%20this%20Cloud-107-informational?labelColor=7D898B)
-![](https://img.shields.io/badge/Contributors%20this%20Cloud-83-blueviolet?labelColor=7D898B)
 
 ## 🎓 Education & Training
 
