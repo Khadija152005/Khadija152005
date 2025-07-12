@@ -39,7 +39,7 @@
 <table>
   <tr>
     <td><img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="380"></td>
-    <td><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="480"></td>
+    <td><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="Coding GIF" width="600" height="300"></td>
   </tr>
 </table>
 
@@ -64,5 +64,4 @@
 ---
 
 🌟 *Eager to grow, build, and solve real-world problems through code and collaboration!*
-
 
