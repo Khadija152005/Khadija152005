@@ -22,7 +22,7 @@
 
 ---
 ![](https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 
 ## 🎓 Education & Training
@@ -39,7 +39,7 @@
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khadija-ahmed-0a3aab2b4/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](khadija.ali55645180@gmail.com)](mailto:your-email@example.com)
 
 ---
 
